@@ -59,4 +59,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.caption("Créé par Aurélie PERNELLE · Modèle : Random Forest")
+st.markdown("<p style='text-align:center;'>Réalisé par Aurélie PERNELLE | Avril 2025</p>", unsafe_allow_html=True)
